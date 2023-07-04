@@ -10,14 +10,14 @@ Trabalho realizado para obtenção de nota na disciplina DCC603 - BANCO DE DADOS
 * **Ramsés Carvalho** - *Desenvolvedor Frontend* 
 
 ### 📋 Pré-requisitos
-*1.0 Sistema deve conter autenticação/autorização com Login e Cadastro de Usuários
-*2.0 Usuário root (criado junto ao criação das tabelas) do sistema que pode dar permissão para novos usuários tipo admin
+* 1.0 Sistema deve conter autenticação/autorização com Login e Cadastro de Usuários
+* 2.0 Usuário root (criado junto ao criação das tabelas) do sistema que pode dar permissão para novos usuários tipo admin
 
-*3.0 Usuário admin pode cadastrar/alterar/deletar novas categorias de curso;
-  *3.1 Usuário admin pode cadastrar/alterar/deletar novos cursos;
-  *3.2 Usuário admin pode suspender conta de usuário aluno;
-  *3.3 Tem acesso a listagem dos alunos;
-  *3.4 Faz a rotina de “fechar” um curso, emitindo certificados para quem terminou mais de 90% da carga horária;
+* 3.0 Usuário admin pode cadastrar/alterar/deletar novas categorias de curso;
+  * 3.1 Usuário admin pode cadastrar/alterar/deletar novos cursos;
+  * 3.2 Usuário admin pode suspender conta de usuário aluno;
+  * 3.3 Tem acesso a listagem dos alunos;
+  * 3.4 Faz a rotina de “fechar” um curso, emitindo certificados para quem terminou mais de 90% da carga horária;
   
 *4.0 Usuário aluno pode se cadastrar no sistema
   *4.1 Usuário aluno pode alterar seu próprio perfil (atualizar endereço, celular, foto do perfil);
