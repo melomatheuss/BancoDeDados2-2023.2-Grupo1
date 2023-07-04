@@ -27,7 +27,7 @@ Trabalho realizado para obtenção de nota na disciplina DCC603 - BANCO DE DADOS
   * 5.1 Categorias de cursos podem conter vários cursos vinculados a ela;
   * 5.2 Curso deve ter (id, nome_do_curso, categoria_curso(FK), data_inicio, carga_horária, quantidade_inscritos);
 
-*6 Certificados são emitidos seguindo algum critério de validação do aluno. Exemplo:
+* 6 Certificados são emitidos seguindo algum critério de validação do aluno. Exemplo:
  * - Aluno terminou de responder um questionário e acertou > 70% E/OU
  * - Quando o aluno termina mais de 90% da carga horária do curso.
     * 6.1 Para essa versão do sistema quem lança a carga horária do aluno é algum perfil admin do sistema
